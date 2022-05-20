@@ -1,7 +1,7 @@
 <h2 align="centre">harue Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/2b610c918dec590d2777b.jpg">
+  <img src="https://telegra.ph/file/c0855a0c1ee70d447f2c1.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
